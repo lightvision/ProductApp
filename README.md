@@ -10,3 +10,5 @@
  * Aplicația include validări pentru datele introduse și notificări pentru utilizator în cazul erorilor.
  *
  * Pentru detalii de rulare se pot vedea si screenshot-urile atasate
+
+
